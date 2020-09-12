@@ -1,8 +1,14 @@
 # health-check
-Scripts that checks the health of my computer.
 
-This repo will be populated with lots of fancy checks.
+This is a README file, if it is empty please ignor it.
+======================================================
 
-Test line.
-2nd Test line, for fetch test.
-may be i should write some code eventually...
+I will add a real README info later on.
+
+Actually, there is no real project going on.
+
+## Examples
+
+  * one
+  * two
+  * three
