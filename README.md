@@ -12,3 +12,5 @@ Actually, there is no real project going on.
   * one
   * two
   * three
+
+Add emoji: :partying_face: 
